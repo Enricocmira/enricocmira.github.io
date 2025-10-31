@@ -113,33 +113,11 @@ a:hover {
 
 ### Teaching Experience
 
-#### California Polytechnic State University
-
-<p class="ex1" align="justify"><b>BUS 434 - Real Estate Finance</b> <em>(Undergraduate)</em>, Instructor: <font style="font-size:14px">Fall 2025</font></p>
-
-#### Massachusetts Institute of Technology
-
-<p class="ex1" align="justify"><b>11.433 - Real Estate Economics</b> <em>(Graduate)</em>, Assistant Instructor: <font style="font-size:14px">Fall 2023; Fall 2024</font> <br>
-<b>11.355 - International Housing Economics and Finance</b> <em>(Graduate)</em>, Assistant Instructor: <font style="font-size:14px">Spring 2024</font> <br>
-<b>11.355 - International Housing Economics and Finance</b> <em>(Graduate)</em>, Guest Lecturer: <font style="font-size:14px">Spring 2025</font></p>
-
-
-#### University of Illinois at Urbana-Champaign
-
-<p class="ex1" align="justify"><b>Econ 490 - International Trade</b> <em>(Undergraduate)</em>, Instructor: <font style="font-size:14px">Fall 2018 &mdash; Spring 2020</font> <br>
-<b>Econ 203 - Economic Statistics II</b> <em>(Undergraduate)</em>, Teaching Assistant: <font style="font-size:14px">Spring 2017 &mdash; Spring 2018</font> <br>
-<b>Econ 302 - Intermediate Microeconomics</b> <em>(Undergraduate)</em>, Teaching Assistant: <font style="font-size:14px">Fall 2016</font> </p>
-
 
 #### University of Sao Paulo, Brazil
 <p class="ex1" align="justify"><b>Econometrics III - Time Series</b> <em>(Undergraduate)</em>, Teaching Assistant: <font style="font-size:14px">Spring 2014</font> <br>
-<b>International Economics</b> <em>(Undergraduate)</em>, Teaching Assistant: <font style="font-size:14px">Fall 2013</font> </p>
+<b>EAP5049 Training Program for Entrepreneurial Scientist Mentors</b> <em>(Graduate)</em>, Teaching Assistant: <font style="font-size:14px">Fall 2024</font> </p>
 
 <br>
 
-### Teaching Distinctions and Certificates
-<p class="ex1" align="justify">Kaufman Teaching Certificate Program, Massachusetts Institute of Technology: <font style="font-size:14px">2023</font> <br>
-Teachers Ranked as <em>Excellent</em> by students, University of Illinois at Urbana-Champaign: <font style="font-size:14px">Spring 2017 &mdash; Spring 2020</font> <br>
-Rated as <em>Outstanding</em> by students, University of Illinois at Urbana-Champaign: <font style="font-size:14px">Spring 2018, Spring 2019, Spring 2020</font> <br>
-Graduate Teacher Certificate, University of Illinois at Urbana-Champaign: <font style="font-size:14px">2017</font> </p>
 
