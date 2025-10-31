@@ -32,4 +32,4 @@ I am a PhD Student in Economic Theory at <strong><a target="_blank" rel="noopene
 
 <p align="center" class="ex1"><font size="3"> <a class="page-link" target="_blank" rel="noopener noreferrer" href="/files/enricocmira_CV.pdf"><i class="fa-regular fa-file-lines"> </i> Curriculum vitae</a> | <a href="mailto:enrico.c.mira@usp.br"> <i class="fa-regular fa-envelope"> </i> enrico.c.mira@usp.br</a> </font></p>
 
-<a rel="me" href="https://econtwitter.net/@vpsantanna"></a>
+<a rel="me" href="https://econtwitter.net/@enricocmira"></a>
