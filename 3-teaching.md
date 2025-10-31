@@ -115,8 +115,7 @@ a:hover {
 
 
 #### University of Sao Paulo, Brazil
-<p class="ex1" align="justify"><b>Econometrics III - Time Series</b> <em>(Undergraduate)</em>, Teaching Assistant: <font style="font-size:14px">Spring 2014</font> <br>
-<b>EAP5049 Training Program for Entrepreneurial Scientist Mentors</b> <em>(Graduate)</em>, Teaching Assistant: <font style="font-size:14px">Fall 2024</font> </p>
+<p class="ex1" align="justify"><b>EAP5049 Training Program for Entrepreneurial Scientist Mentors</b> <em>(Graduate)</em>, Teaching Assistant: <font style="font-size:14px">Fall 2024</font> </p>
 
 <br>
 
