@@ -46,8 +46,8 @@ permalink: /teaching/
 }
 
 .button-1:hover {
-  /* background-color: rgb(87,117,153);*/
-  background-color: rgb(134, 21, 44);
+  background-color: rgb(87,117,153);
+  /*background-color: rgb(134, 21, 44);*/
   color: white;
 }
 
