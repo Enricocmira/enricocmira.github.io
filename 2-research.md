@@ -141,7 +141,7 @@ tbody.collapse.in{
 
 ### Refereed Publications
 
-<p class="ex1" align="justify"> <b>Testing for bubbles in the Brazilian commercial real estate market</b> <br> <em>Economic Bulletin</em>, 2025, Volume 45, Issue 3. (with <a href="https://sites.google.com/site/wilfredoflmaldonado/" target="_blank">Wilfredo Maldonado</a>) and Octávio Tourinho<br>
+<p class="ex1" align="justify"> <b>Testing for bubbles in the Brazilian commercial real estate market</b> <br> <em>Economic Bulletin</em>, 2025, Volume 45, Issue 3. (with <a href="https://sites.google.com/site/wilfredoflmaldonado/" target="_blank">Wilfredo Maldonado</a> and Octávio Tourinho)<br>
 <a class="button-1" role="button" href="http://www.accessecon.com/Pubs/EB/2025/Volume45/EB-25-V45-I3-P112.pdf" target="_blank" style="line-height:35px; text-decoration: none">DOI <i class="fa fa-external-link"></i></a> 
 <a class="button-1" role="button" href="/files/research/Testing for bubbles in the Brazilian commercial real estate market (EB-25-V45-I3-P112).pdf" target="_blank" style="line-height:35px; text-decoration: none">Paper <i class="fa-regular fa-file-lines"></i></a> <a class="button-1" role="button" data-toggle="collapse" data-target="#abs3" style="line-height:35px; text-decoration: none">Abstract +</a>
   <div id="abs3" class="collapse">
