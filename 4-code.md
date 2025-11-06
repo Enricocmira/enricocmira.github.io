@@ -1,6 +1,9 @@
 ---
-layout: none
+layout: page
+title: Codes
+permalink:
 ---
+
 <!DOCTYPE html>
 <html>
 <head>
